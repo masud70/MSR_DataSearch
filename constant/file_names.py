@@ -1,0 +1,16 @@
+Files = {
+    'ALL_PULL_REQUESTS': "all_pull_request.parquet",
+    'PULL_REQUESTS': "pull_request.parquet",
+    'HUMAN_PULL_REQUESTS': "human_pull_request.parquet",
+    'PR_COMMITS': "pr_commits.parquet",
+    'PR_COMMIT_DETAILS': "pr_commit_details.parquet",
+    'PR_TIMELINE': "pr_timeline.parquet",
+    'PR_REVIEWS': "pr_reviews.parquet",
+    'PR_REVIEW_COMMENTS': "pr_review_comments.parquet",
+    'PR_REVIEW_COMMENTS_V2': "pr_review_comments_v2.parquet",
+    'pe': "pr_comments.parquet",
+    'RELATED_ISSUES': "related_issue.parquet",
+    'ISSUES': "issue.parquet",
+    'HUMAN_PR_TASK_TYPE': "human_pr_task_type.parquet",
+    'PR_TASK_TYPE': "pr_task_type.parquet",
+}
